@@ -37,6 +37,12 @@ data = [
 **wordIDOnPage** from 0 to m-1 words on that same page
 The bounding box is the box around a word. It consists of the top left x y coordinate of the word and the width and height.
 
+## Additional Information
+This is the first page of the sample document. 
+The words are color coded by their word height, with blue words being the most frequent words on this page.
+
+![Screenshot_2020-06-23_at_10 14 46](https://user-images.githubusercontent.com/402956/151151477-ee567ef6-b3d5-4a52-820e-446517da0c4d.png)
+
 ## Objectives
 To compute some statistics about the proximity of words on a PDF page.
 
@@ -51,10 +57,8 @@ To compute some statistics about the proximity of words on a PDF page.
     3. Sort each word on each line by their x-coordinate so that they are ordered by their ‘reading order’
     4. Compute: the mean, mode, median of the distance between words on each line, that belong to the same height
 
-## Additional Information
-This is the first page of the sample document. 
-The words are color coded by their word height, with blue words being the most frequent words on this page.
-
-![Screenshot_2020-06-23_at_10 14 46](https://user-images.githubusercontent.com/402956/151151477-ee567ef6-b3d5-4a52-820e-446517da0c4d.png)
-
+> 
 There should be 720 words on this page. There should be 553 words that have a wordHeight >7.5 and <8.5 pixels.
+
+
+
