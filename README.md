@@ -1,5 +1,13 @@
 # leapian-coding-assignment-bbox
 
+## Instructions
+
+1. Clone this repository
+2. Read the background information
+3. Implement as many of the requirements as you can within a 30-40 minute time-frame
+4. Make a commit for each of the requirements, before you move on
+5. Push your work to github & contact the team for a review.
+
 ## Background
 
 A PDF Document file contains information about the words on each PDF page, so that the PDF Renderer can draw these on the screen.
@@ -50,10 +58,6 @@ This is the first page of the sample document.
 The words are color coded by their word height, with blue words being the most frequent words on this page.
 
 ![Screenshot_2020-06-23_at_10 14 46](https://user-images.githubusercontent.com/402956/151151477-ee567ef6-b3d5-4a52-820e-446517da0c4d.png)
-
-## Objectives
-
-To compute some statistics about the proximity of words on a PDF page.
 
 ### Detailed Requirements
 
