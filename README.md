@@ -32,9 +32,10 @@ data = [
 > Hint: you can now import this dataset in another script with `from dataset import data` # assuming dataset.py is in the same folder
 
 ## Data Ranges
-**pageID** from 0 to n-1 pages in the document
-**wordID** from 0 to n-1 words in the whole document
-**wordIDOnPage** from 0 to m-1 words on that same page
+- **pageID** from 0 to n-1 pages in the document
+- **wordID** from 0 to n-1 words in the whole document
+- **wordIDOnPage** from 0 to m-1 words on that same page
+
 The bounding box is the box around a word. It consists of the top left x y coordinate of the word and the width and height.
 
 ## Additional Information
