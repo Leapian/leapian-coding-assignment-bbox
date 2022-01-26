@@ -4,8 +4,8 @@
 
 1. Clone this repository
 2. Read the background information
-3. Implement as many of the requirements as you can within a 30-40 minute time-frame
-4. Make a commit for each of the requirements, before you move on
+3. Implement as many of the [requirements](#detailed-requirements) as you can within a 30-40 minute time-frame
+4. Make a commit for each of the [requirements](#detailed-requirements), before you move on
 5. Push your work to github & contact the team for a review.
 
 ## Background
