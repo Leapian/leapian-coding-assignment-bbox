@@ -2,11 +2,16 @@
 
 ## Instructions
 
-1. Clone this repository
-2. Read the background information
-3. Implement as many of the [requirements](#detailed-requirements) as you can within a 30-40 minute time-frame
-4. Make a commit for each of the [requirements](#detailed-requirements), before you move on
-5. Push your work to github & contact the team for a review.
+1. Create a public repository based on this template
+2. Clone your repository on your machine and implement the exercises
+3. When you're done push your commits & send us a link to your repository (public)
+
+Task instructions:
+
+1. Read the background information
+2. Implement as many of the [requirements](#detailed-requirements) as you can within a 30-40 minute time-frame
+3. Make a commit for each of the [requirements](#detailed-requirements), before you move on
+4. Push your work to github & contact the team for a review.
 
 ## Background
 
